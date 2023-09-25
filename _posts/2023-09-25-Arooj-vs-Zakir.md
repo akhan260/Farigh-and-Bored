@@ -2,8 +2,8 @@
 layout: post
 title: Arooj vs Zakir
 subtitle: The rivalry I'll be telling my kids about
-cover-img: /assets/img/admins_comic.png
-thumbnail-img: /assets/img/coffee_mug.png
+# cover-img: /assets/img/admins_comic.png
+thumbnail-img: /assets/img/arooj-vs-zakir.png
 share-img: /assets/img/admins_comic.jpg
 tags: [books, test]
 ---
