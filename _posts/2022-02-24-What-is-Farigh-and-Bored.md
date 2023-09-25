@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Farigh and Bored
+title: What is Farigh and Bored?
 subtitle: Aao thodi bakwaas karlein
 cover-img: /assets/img/admins_comic.png
 thumbnail-img: /assets/img/coffee_mug.png
