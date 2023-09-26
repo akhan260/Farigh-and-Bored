@@ -2,8 +2,8 @@
 layout: post
 title: FnB Cricket Season 2022 Review
 subtitle: A Roller Coaster of Emotions
-cover-img: /assets/img/pak_cric.jpg
-thumbnail-img: /assets/img/pak_cric_2022.jpg
+cover-img: /assets/img/pak_cric_2022.jpg
+thumbnail-img: /assets/img/Shaheen_babar_rizwan.jpg
 share-img: /assets/img/pak_cric_2022.jpg
 tags: [books, test]
 ---
